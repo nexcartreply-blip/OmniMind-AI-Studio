@@ -1,0 +1,8 @@
+{
+  "name": "OmniMind AI Studio",
+  "description": "A game-changing all-in-one AI creative suite powered by Gemini. Generate text, high-fidelity images, cinematic videos, and engage in real-time voice conversations within a sleek, glassmorphic interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
